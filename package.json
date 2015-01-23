@@ -16,8 +16,16 @@
   "keywords": [
     "sort",
     "algorithm",
-    "merge sort"
+    "merge sort",
+    "paradigms"
   ],
   "author": "Dimitar Grablev <dimitar.grablev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitar-grablev/node-merge-sort-io/issues"
+  },
+  "homepage": "https://github.com/dimitar-grablev/node-merge-sort-io",
+  "dependencies": {
+    "nodeunit": "^0.9.0"
+  }
 }
