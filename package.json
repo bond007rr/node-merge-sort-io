@@ -1,0 +1,23 @@
+{
+  "name": "merge-sort-io",
+  "version": "0.0.1",
+  "description": "Sorts an array in ascending natural order using merge sort.",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "node": "0.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dimitar-grablev/node-merge-sort-io.git"
+  },
+  "keywords": [
+    "sort",
+    "algorithm",
+    "merge sort"
+  ],
+  "author": "Dimitar Grablev <dimitar.grablev@gmail.com>",
+  "license": "MIT"
+}
