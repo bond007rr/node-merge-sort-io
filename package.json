@@ -1,6 +1,6 @@
 {
   "name": "merge-sort-io",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Sorts an array in ascending natural order using merge sort.",
   "scripts": {
     "test": "nodeunit test.js"
